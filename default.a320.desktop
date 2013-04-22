@@ -1,0 +1,7 @@
+ [Desktop Entry]
+Name=KOFv5
+Comment=KOF Flames Of Courage
+Type=Application
+Exec=bgdi kofv5.dcb
+Icon=icono
+Categories=games;
