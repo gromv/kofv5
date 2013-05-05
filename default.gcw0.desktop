@@ -1,7 +1,9 @@
- [Desktop Entry]
+[Desktop Entry]
 Name=KOFv5
 Comment=KOF Flames Of Courage
+Exec=kofv5.dge
+Terminal=false
 Type=Application
-Exec=bgdi kofv5.dcb
+StartupNotify=true
 Icon=icono
 Categories=games;
